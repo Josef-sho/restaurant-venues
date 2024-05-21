@@ -12,10 +12,9 @@ const Navbar = () => {
           <Link href="/venues">Venues</Link>
         </li>
         <li>
-          <Link href="/settings">Add Venues</Link>
+          <Link href="/addvenues">Add Venues</Link>
         </li>
       </ul>
-      {/* <button className="bg-gray-600 px-4 py-2 rounded">Full Screen</button> */}
     </nav>
   );
 };
